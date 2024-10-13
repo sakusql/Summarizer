@@ -85,4 +85,4 @@ Avant de commencez, veillez à :
 <!-- CONTACT -->
 ## Projet
 
-Lien: [https://github.com/sakusql/dodgingbullets](https://github.com/sakusql/Summarizer)
+Lien: [https://github.com/sakusql/Summarizer](https://github.com/sakusql/Summarizer)
